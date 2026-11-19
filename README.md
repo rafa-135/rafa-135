@@ -2,8 +2,6 @@
 
 # Olá, eu sou o José Rafael! 👋
 
-**Estudante de Sistemas de Informação 💻📚**
-
 </div>
 
 ---
