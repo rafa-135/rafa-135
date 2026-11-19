@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ### 👨‍💻 Sobre Mim
 
 Sou estudante de **Sistemas de Informação** no Instituto Federal de Sergipe (IFS) e atualmente estou aprimorando minhas habilidades no desenvolvimento back-end e na construção de aplicações web.
