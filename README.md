@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rafa-135/rafa-135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o José Rafael! 👋
 
-Here are some ideas to get you started:
+**Estudante de Sistemas de Informação 💻📚**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+Sou estudante de **Sistemas de Informação** no Instituto Federal de Sergipe (IFS) e atualmente estou aprimorando minhas habilidades no desenvolvimento back-end e na construção de aplicações web.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Front-end
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
+#### ⚙️ Back-end & Banco de Dados
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postgres" />
+  </a>
+</p>
+
+#### 🖥️ Ambiente & Ferramentas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,idea,git,github" />
+  </a>
+</p>
+
+---
+
+<p>
+  <a href="https://www.linkedin.com/in/josé-rafael-souza-macedo-45b529313" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jrmacedo70@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
